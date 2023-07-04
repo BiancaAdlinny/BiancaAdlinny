@@ -1,6 +1,6 @@
 <img widht=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/> 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Bianca+Adlinny;I'm+18+years+old;I+am+from+Mantenópolis,+ES;I+study+Security+of+Information+at+UNIUBE;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Bianca+Adlinny;I'm+18+years+old;I+am+from+Mantenópolis,+ES;I+study+Security+of+Information+at+UNIUBE;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaAdlinny&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=C71585&text_color=9400D3&bg_color=EE82EE" alt="Matheus Maia Alvarez github stats" /> 
@@ -8,7 +8,8 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BiancaAdlinny&bg_color=DA70D6&color=4B0082&line=C71585&point=9400D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BiancaAdlinny&bg_color=DA70D6&color=4B0082&line=32CD32&point=9400D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
