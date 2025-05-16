@@ -1,4 +1,4 @@
-<img widht=150% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/> 
+<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/> 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name's+Babi;I'm+21+years+old;I+am+from+Mantenópolis,+ES;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
@@ -45,4 +45,4 @@
 <a href="https://www.linkedin.com/in/bianca-adlinny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
  </div>
 
-<img widht=150% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/> 
+<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/> 
